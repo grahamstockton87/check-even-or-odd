@@ -1,0 +1,3 @@
+﻿  CheckEvenOrOdd.cpp
+C:\Users\graha\Documents\GitHub\check-even-or-odd\CheckEvenOrOdd\CheckEvenOrOdd\CheckEvenOrOdd.cpp(5,9): warning C4101: 'b': unreferenced local variable
+  CheckEvenOrOdd.vcxproj -> C:\Users\graha\Documents\GitHub\check-even-or-odd\CheckEvenOrOdd\x64\Debug\CheckEvenOrOdd.exe
